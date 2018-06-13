@@ -1,0 +1,682 @@
+<!Doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>JD首页</title>
+    <link href="http://cdn.bootcss.com/normalize/4.2.0/normalize.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- 工具栏 -->
+    <div class="shortcut">
+        <div class="head">
+            <ul class="arrive">
+                <li>送至：北京</li>
+                <s>◇</s>
+            </ul>
+            <ul id="login">
+                <li>
+                    <a href="#">你好，请登录</a>
+                    <a href="#" class="l_register">免费注册</a>
+                </li>
+                <li class="spacer"></li>
+                <li>
+                    <a href="#">我的订单</a>
+                </li>
+                <li class="spacer"></li>
+                <li>
+                    <a href="#">我的京东</a>
+                </li>
+                <li class="spacer"></li>
+                <li>
+                    <a href="#">京东会员</a>
+                </li>
+                <li class="spacer"></li>
+                <li>
+                    <a href="#">企业采购</a>
+                </li>
+                <li class="spacer"></li>
+                <li>
+                    <em class="tel_icon"></em>
+                </li>
+                <li class="phone_spacer"></li>
+                <li>
+                    <a href="#">手机京东</a>
+                    <span class="s_span"></span>
+                    <s class="s_spacer">◇</s>
+                    <span class="s_span"></span>
+                </li>
+                <li class="spacer"></li>
+                <li>
+                    <a href="#">关注京东</a>
+                    <span class="s_span"></span>
+                    <s class="s_spacer">◇</s>
+                    <span class="s_span"></span>
+                </li>
+                <li class="spacer"></li>
+                <li>
+                    <a href="#">客户服务</a>
+                    <span class="s_span"></span>
+                    <s class="s_spacer">◇</s>
+                    <span class="s_span"></span>
+                </li>
+                <li class="spacer"></li>
+                <li>
+                    <a href="#">网站导航</a>
+                    <span class="s_span"></span>
+                    <s class="s_spacer">◇</s>
+                    <span class="s_span"></span>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- 广告栏 -->
+    <div class="ad_container">
+        <div class="ad_core">
+            <a href="#">
+                <img src="./images/topbanner.jpg" alt="">
+            </a>
+            <a href="javascript:;" class="close-banner"></a>
+        </div>
+    </div>
+    <!-- 搜索 -->
+    <div class="search_container">
+        <!--商标-->
+        <div class="bg_logo">
+            <a href="#" class="JD_logo"></a>
+        </div>
+        <!-- 搜索框 -->
+        <div class="s_search">
+            <div class="s_box">
+                <input type="text" value="卡通手机壳" class="s_input">
+                <button class="s_button">搜索</button>
+                <div class="s_href">
+                    <a href="#" class="qxwz">七夕五折</a>
+                    <a href="#" class="h_spacer">买一送一</a>
+                    <a href="#" class="h_spacer">蟹蟹你的爱</a>
+                    <a href="#" class="h_spacer">9.9礼品</a>
+                    <a href="#" class="h_spacer">折上7折</a>
+                    <a href="#" class="h_spacer">水杯</a>
+                    <a href="#" class="h_spacer">书包男</a>
+                    <a href="#" class="h_spacer">0元试用</a>
+                    <a href="#" class="h_spacer">拍立得</a>
+                    <a href="#" class="h_spacer">拍立得</a>
+                </div>
+            </div>
+        </div>
+        <!-- 购物车 -->
+        <div class="car">
+            <i class="icon1"></i>
+            <a href="#" class="c_href">我的购物车</a>
+            <i class="icon2">&gt;</i>
+            <i class="icon3">0</i>
+        </div>
+    </div>
+    <!-- 导航栏 -->
+    <div class="nav">
+        <div class="nav_classify">
+            <span class="nav_spacer">全部商品分类</span>
+            <a href="#"></a>
+        </div>
+        <div class="nav_span">
+            <a href="#" class="nav_space">服装城</a>
+            <a href="#" class="nav_space">美妆馆</a>
+            <a href="#" class="nav_space">京东超市</a>
+            <a href="#" class="nav_space">生鲜</a>
+            <a href="#" class="nav_space">全球购</a>
+            <a href="#" class="nav_space">闪购</a>
+            <a href="#" class="nav_space">团购</a>
+            <a href="#" class="nav_space">拍卖</a>
+            <a href="#" class="nav_space">金融</a>
+        </div>
+        <div class="nav_logo">
+            <a href="#"></a>
+        </div>
+    </div>
+    <!-- 家用电器 -->
+    <div class="sub_nav">
+        <div class="sub_head">
+            <h3>
+                <a href="#" class="sub_href">家用电器</a>
+                <i class="sub_i">></i>
+            </h3>
+        </div>
+        <div class="sub_head">
+            <h3>
+                <a href="#" class="sub_href">手机、数码、京东通信</a>
+                <i class="sub_i">></i>
+            </h3>
+        </div>
+        <div class="sub_head">
+            <h3>
+                <a href="#" class="sub_href">家用电器</a>
+                <i class="sub_i">></i>
+            </h3>
+        </div>
+        <div class="sub_head">
+            <h3>
+                <a href="#" class="sub_href">手机、数码、京东通信</a>
+                <i class="sub_i">></i>
+            </h3>
+        </div>
+        <div class="sub_head">
+            <h3>
+                <a href="#" class="sub_href">家用电器</a>
+                <i class="sub_i">></i>
+            </h3>
+        </div>
+        <div class="sub_head">
+            <h3>
+                <a href="#" class="sub_href">手机、数码、京东通信</a>
+                <i class="sub_i">></i>
+            </h3>
+        </div>
+        <div class="sub_head">
+            <h3>
+                <a href="#" class="sub_href">家用电器</a>
+                <i class="sub_i">></i>
+            </h3>
+        </div>
+        <div class="sub_head">
+            <h3>
+                <a href="#" class="sub_href">手机、数码、京东通信</a>
+                <i class="sub_i">></i>
+            </h3>
+        </div>
+        <div class="sub_head">
+            <h3>
+                <a href="#" class="sub_href">家用电器</a>
+                <i class="sub_i">></i>
+            </h3>
+        </div>
+        <div class="sub_head">
+            <h3>
+                <a href="#" class="sub_href">手机、数码、京东通信</a>
+                <i class="sub_i">></i>
+            </h3>
+        </div>
+        <div class="sub_head">
+            <h3>
+                <a href="#" class="sub_href">家用电器</a>
+                <i class="sub_i">></i>
+            </h3>
+        </div>
+        <div class="sub_head">
+            <h3>
+                <a href="#" class="sub_href">手机、数码、京东通信</a>
+                <i class="sub_i">></i>
+            </h3>
+        </div>
+        <div class="sub_head">
+            <h3>
+                <a href="#" class="sub_href">家用电器</a>
+                <i class="sub_i">></i>
+            </h3>
+        </div>
+        <div class="sub_head">
+            <h3>
+                <a href="#" class="sub_href">手机、数码、京东通信</a>
+                <i class="sub_i">></i>
+            </h3>
+        </div>
+    </div>
+    <!-- 图片 -->
+    <div class="sub_img">
+        <a href="#">
+            <img src="./images/slider.jpg" alt="">
+        </a>
+    </div>
+    <!-- 新闻 -->
+    <div class="sub_news">
+        <div>
+            <h3 class="JD_news">京东快报</h3>
+            <a href="#" class="more">更多
+                <span class="more_i">></span>
+            </a>
+        </div>
+        <div class="dot_news"></div>
+        <div class="news_ul">
+            <ul>
+                <li class="news_li">
+                    <span class="news_span">[特惠]</span>
+                    七夕献礼 买礼品卡返25
+                </li>
+                <li class="news_li">
+                    <span class="news_span">[公告]</span>
+                    上京东生鲜 享阳澄湖大闸蟹
+                </li>
+                <li class="news_li">
+                    <span class="news_span">[特惠]</span>
+                    七夕购新车 最高直抵5099元
+                </li>
+                <li class="news_li">
+                    <span class="news_span">[公告]</span>
+                    丹寨馆百日庆 传承文化邀你赏
+                </li>
+                <li class="news_li">
+                    <span class="news_span">[特惠]</span>
+                    改写分叉命运想留多长留多长
+                </li>
+            </ul>
+            <div>
+            <div class="phone_border"></div>
+            <div class="phone_border1"></div>
+            <div class="lifserv-icon1">
+            <a href="#">
+            <i></i>
+            </a>
+            </div>
+            <div class="phone_border1"></div>
+            </div>
+        </div>
+    </div>
+</body>
+<style type="text/css">
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    .shortcut {
+        line-height: 30px;
+        height: 30px;
+        width: 6000px;
+        /* margin: 0 auto; */
+        background-color: #F1F1F1;
+        font: Arial, Verdana, "\5b8b\4f53";
+    }
+
+    .head {
+        margin-left: 36.3px;
+    }
+
+    .arrive {
+        list-style: none;
+        font-size: 12px;
+        color: #666;
+        width: 387px;
+        line-height: 30px;
+        height: 30px;
+        float: left;
+    }
+
+    .arrive s {
+        color: #6A6A6A;
+        position: absolute;
+        margin-left: 60.5px;
+        font: 400 15px/15px consolas;
+        top: 6px;
+    }
+
+    #login {
+        list-style: none;
+        font-size: 12px;
+        color: #666;
+        width: 1210px;
+    }
+
+    #login li {
+        float: left;
+        margin-left: 12px;
+    }
+
+    .l_register {
+        margin-left: 4px;
+        color: #B61D1D;
+        text-decoration: none;
+    }
+
+    .spacer {
+        width: 2px;
+        height: 12px;
+        background-color: #DADADA;
+        margin-top: 9px;
+    }
+
+    .tel_icon {
+        width: 15px;
+        height: 20px;
+        background: url(./images/jd2015img.png);
+        position: absolute;
+        top: 5px;
+    }
+
+    .phone_spacer {
+        width: 8px;
+        height: 12px;
+    }
+
+    .s_spacer {
+        color: #6A6A6A;
+        position: absolute;
+        margin-left: 50px;
+        text-decoration: none;
+        font: 400 15px/15px consolas;
+        top: 6px;
+    }
+
+    .ad_container {
+        background-color: #FCD6E3;
+    }
+
+    .ad_core {
+        position: relative;
+        width: 1210px;
+        margin: 0 auto;
+    }
+
+    .close-banner {
+        width: 19px;
+        height: 19px;
+        background: url(./images/close-banner.png) 0 0 no-repeat;
+        position: absolute;
+        top: 5px;
+        right: 5px;
+    }
+
+    .bg_logo {
+        width: 300px;
+        height: 100px;
+        background: #FFFFFF;
+        float: left;
+        margin-left: 18px;
+    }
+
+    .JD_logo {
+        width: 300px;
+        height: 100px;
+        background: url(./images/logo-201305.png) no-repeat center;
+        ;
+        position: absolute;
+    }
+
+    .search_container {
+        height: 100px;
+        width: 100%;
+        background-color: #FFFFFF;
+    }
+
+    .s_search {
+        height: 100px;
+        width: 600px;
+        float: left;
+        text-align: center;
+        line-height: 100px;
+    }
+
+    .s_box {
+        height: 100px;
+        margin-top: 26px;
+        margin-left: 60px;
+    }
+
+    .s_input {
+        height: 33px;
+        width: 450px;
+        line-height: 30px;
+        border-color: #B61D1D;
+        float: left;
+        color: #6A6A6A;
+        font-size: 14px;
+    }
+
+    .s_button {
+        height: 37px;
+        width: 78px;
+        background-color: #B61D1D;
+        border: 0;
+        float: left;
+        text-align: center;
+        color: #FFFFFF;
+        font: 400 16px/36px "微软雅黑";
+        cursor: pointer;
+    }
+
+    .s_span {
+        margin-left: 5px;
+    }
+
+    .s_href {
+        position: absolute;
+    }
+
+    .qxwz {
+        color: #B61D1D;
+    }
+
+    .h_spacer {
+        margin-left: 4px;
+    }
+
+    .car {
+        width: 130px;
+        height: 34px;
+        border: 1px solid #dfdfdf;
+        float: left;
+        margin-left: 120px;
+        margin-top: 26px;
+    }
+
+    .car .icon1 {
+        width: 18px;
+        height: 13px;
+        background: url(./images/jd2015img.png) -1px -59px no-repeat;
+        position: absolute;
+        margin-left: 16px;
+        margin-top: 10px;
+    }
+
+    .car .icon2 {
+        font: 400 13px/13px simsun;
+        color: #999;
+        position: absolute;
+        margin-left: 115px;
+        margin-top: 10px;
+    }
+
+    .car .icon3 {
+        min-width: 8px;
+        height: 14px;
+        background-color: #C81623;
+        position: absolute;
+        font: 400 12px/14px "微软雅黑";
+        color: #fff;
+        text-align: center;
+        border-radius: 7px 7px 7px 0;
+        padding: 0 4px;
+        margin-left: 96px;
+    }
+
+    .c_href {
+        margin-left: 36px;
+        margin-top: 10px;
+        position: absolute;
+    }
+
+    .nav {
+        width: 100%;
+        height: 40px;
+        background-color: #FFFFFF;
+        border-bottom: 2px solid #B61D1D;
+    }
+
+    .nav_classify {
+        width: 220px;
+        height: 40px;
+        margin-left: 30px;
+        background-color: #B1191A;
+        font: 400 16px/36px "微软雅黑";
+        color: #ffffff;
+        float: left;
+    }
+
+    .nav_spacer {
+        margin-left: 10px;
+    }
+
+    .nav_space {
+        margin-left: 32px;
+        font: 400 16px/36px "微软雅黑";
+    }
+
+    .nav_span {
+        float: left;
+    }
+
+    .nav_logo {
+        width: 200px;
+        height: 50px;
+        float: left;
+        margin-left: 65px;
+        background: url(./images/party.jpg);
+        margin-top: -15px;
+        position: relative;
+    }
+
+    .sub_nav {
+        float: left;
+        margin-left: 30px;
+        width: 219px;
+    }
+
+    .sub_head {
+        font: 400 14px/33.5px "微软雅黑";
+        background-color: #C81623;
+    }
+
+    .sub_href {
+        margin-left: 15px;
+        color: #ffffff;
+    }
+
+    .sub_i {
+        font-size: 10px;
+        float: right;
+        margin-right: 10px;
+        color: #ffffff;
+    }
+
+    .sub_img {
+        margin-top: 12.62px;
+        margin-left: 12.62px;
+        float: left;
+    }
+
+    .sub_news {
+        margin-right: 20px;
+        margin-top: 12.62px;
+        width: 240px;
+        height: 366px;
+        border: 1px solid #E4E4E4;
+        float: right;
+    }
+
+    .JD_news {
+        float: left;
+        margin-left: 15px;
+        font: 400 16px/36px "微软雅黑";
+
+    }
+
+    .more {
+        font: 400 12px/36px "微软雅黑";
+        float: right;
+        margin-right: 30px;
+    }
+
+    .more_i {
+        float: right;
+        /* margin-left: 33px; */
+    }
+
+    .dot_news {
+        margin-top: 36px;
+        width: 239px;
+        border: 0.8px dotted #E4E4E4;
+    }
+
+    .news_li {
+        margin-top: 8px;
+        list-style: none;
+        margin-left: 15px;
+    }
+
+    .news_span {
+        font-weight: bold;
+    }
+
+    .phone_border {
+        border: 0.8px solid #E4E4E4;
+        width: 239px;
+        margin-top: 10px; 
+    }
+    
+    .phone_border1 {
+        border: 0.8px solid #E4E4E4;
+        width: 239px;
+        margin-top: 60px;
+    }
+
+    .lifserv-icon1 {
+        
+    }
+    table {
+        border-collapse: collapse;
+    }
+
+    img {
+        border: 0;
+        vertical-align: middle;
+    }
+
+    body {
+        font: 12px/150% Arial, Verdana, "\5b8b\4f53";
+        color: #666;
+        background: #fff;
+        height: 2000px;
+    }
+
+    a,
+    s,
+    i,
+    em {
+        font-style: normal;
+        text-decoration: none;
+        color: #666;
+    }
+
+    div {
+        display: block;
+    }
+
+    /* 清除浮动 */
+
+    .clearfix:before,
+    .clearfix:after {
+        content: "";
+        display: table;
+    }
+
+    .clearfix:after {
+        clear: both;
+    }
+
+    .clearfix {
+        *zoom: 1;
+        /*IE/7/6*/
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        text-decoration: none;
+        font-weight: normal;
+        font-size: 100%;
+    }
+</style>
+
+</html>
