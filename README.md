@@ -1,2 +1,0 @@
-# JD
-JD html+css
